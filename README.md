@@ -56,6 +56,8 @@
 - [EkoEdyPurwanto](https://github.com/EkoEdyPurwanto/EkoEdyPurwanto)
 
 #### GitHub Actions 🤖
+- [Francesco Ciulla](https://github.com/FrancescoXX/FrancescoXX)
+- [Eddie Jaoude](https://github.com/eddiejaoude/eddiejaoude)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
